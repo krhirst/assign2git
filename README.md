@@ -3,4 +3,8 @@ Kristen Hirst / khirst1
 
 First comment
 
-This is a change on newbranch
+Merging two branches: 
+
+	This is a change on newbranch
+
+	testbranch change
